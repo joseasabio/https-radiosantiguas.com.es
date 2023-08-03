@@ -7,7 +7,7 @@ body {
    background-image: url(dibujo/fondoesq-0.gif);
    border-image-repeat: repeat
 }
-#col1 {/*Cuadro Izd*/
+#col1 { /*Cuadro Izd*/
    text-align: center;
    position: fixed;
    top: 10px;
@@ -15,7 +15,7 @@ body {
    width: 258px;
    border: 1px solid;
 }
-#col2 {/*Cabecera de Listado*/
+#col2 { /*Cabecera de Listado*/
    position stiky;
    margin-left: 261px;
    margin-right: 10px;
@@ -24,30 +24,30 @@ body {
    border-bottom: 0px solid;
    border-left: 0px solid;
 }
-.td3 {/*col2*/
+.td3 { /*col2*/
    position: fixed;
    vertical-align: top;
    left: 300px;
    width: 320px;
    color: #000;
-   background-color:transparent;
-	border-top: 0px;
+   background-color: transparent;
+   border-top: 0px;
    border-bottom: 0px;
    border-left: 0px;
-	border-right: 0px;
+   border-right: 0px;
 }
-.table3 {/*Index*/
+.table3 { /*Index*/
    width: 100%;
    border: 4px solid #CA8035;
    text-align: center;
 }
-.td1 {/*Table3*/
+.td1 { /*Table3*/
    top: 10px;
    left: 15px;
    width: 250px;
    border: 1px solid #ca8035;
 }
-.td2 {/*Table3*/
+.td2 { /*Table3*/
    top: 10px;
    left: 500px;
    width: 100%;
