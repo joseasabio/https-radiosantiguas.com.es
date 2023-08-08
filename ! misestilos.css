@@ -16,7 +16,7 @@ body {
    border: 1px solid;
 }
 #col2 { /*Cabecera de Listado*/
-   position stiky;
+   position: stiky;
    margin-left: 261px;
    margin-right: 10px;
    margin-top: 1px;
