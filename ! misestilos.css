@@ -33,7 +33,7 @@ body {
      left: 300px;
      width: 320px;
      color: #000;
-     background-color: transparent;
+/*     background-color: transparent;*/
      border-top: 0px;
      border-bottom: 0px;
      border-left: 0px;
@@ -101,5 +101,3 @@ h3 {
 .font24 {
      font-size: 24px
 }
-	
-.cm-comment {color: #FFFFFF;}
