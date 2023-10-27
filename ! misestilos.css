@@ -27,10 +27,10 @@ body {
    vertical-align: top;
    left: 300px;
    width: 320px;
-   color: #000;
+   color: #666666;
 }
 .td4 { /*SubDirectorios*/
-   color: #555555;
+   color:#111111;
 }
 .table3 { /*Index*/
    width: 100%;
