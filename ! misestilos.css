@@ -16,21 +16,21 @@ body {
    border: 1px solid;
 }
 #col2 { /*Todo el listado*/
-   position: sticky;
+   /*position: sticky;*/
    margin-left: 261px;
    margin-right: 10px;
-   margin-top: 1px;
    left: 0px;
 }
 .td3 { /*Solo cabecera*/
    position: fixed;
-   vertical-align: top;
+   /*vertical-align: center;*/
    left: 300px;
-   width: 320px;
-   color: #666666;
+   width: 230px;
+   color: #555555;
+   background-color: #ffffff
 }
 .td4 { /*SubDirectorios*/
-   color:#111111;
+   color:#555555;
 }
 .table3 { /*Index*/
    width: 100%;
