@@ -7,6 +7,15 @@ body {
    background-image: url(dibujo/fondoesq-0.gif);
    background-attachment: fixed;
 }
+a:link {
+   color: #ff6633;
+}
+a:hover {
+   color: #0066ff;
+}
+a:visited {
+   color: #3CBE6E;
+}
 #col1 { /*Cuadro Izd*/
    text-align: center;
    position: fixed;
@@ -49,15 +58,7 @@ body {
    width: 100%;
    border: 1px solid #ca8035;
 }
-a:link {
-   color: #ff6633;
-}
-a:hover {
-   color: #0066ff;
-}
-a:visited {
-   color: #3CBE6E;
-}
+
 h1 {
    font-size: 30px;
 }
